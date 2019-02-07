@@ -5,4 +5,6 @@ The data is also included in the repository.
 The goal is to predict if a csutomer will buy a bike or not based on some demographic and other features.
 The notebook shows how to tune the model to improve the model accuracy.
 The Notebook is **adopted** from a Udemy course on deep learning using Keras by Mike West
-Course website: https://www.udemy.com/a-gentle-introduction-to-deep-learning-using-keras/learn/v4/overview
+Course website: https://www.udemy.com/a-gentle-introduction-to-deep-learning-using-keras/learn/v4/overview. 
+### Goals:
+\item {12}
