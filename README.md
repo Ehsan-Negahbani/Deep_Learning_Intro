@@ -18,4 +18,15 @@ Course website: https://www.udemy.com/a-gentle-introduction-to-deep-learning-usi
    5. Building deep learning models is not difficult, but there are lots of moving parts and a lot of new concepts.
    6. We will use a library in Python called Keras to create a deep learning model.
    7. We will cover a lot of new terminology that is specific to deep learning.
+   
+### Code template
+1. Import data
+2. Set out the random seed
+3. Import dataset
+4. Split the putput variable
+5. Build the deep learning model
+6. Compile the model
+7. Fit (train) the model
+8. Score the model
+9. Fine tune the model by changing a parmater and repeating steps 5-8
 
