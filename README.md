@@ -7,4 +7,15 @@ The notebook shows how to tune the model to improve the model accuracy.
 The Notebook is **adopted** from a Udemy course on deep learning using Keras by Mike West
 Course website: https://www.udemy.com/a-gentle-introduction-to-deep-learning-using-keras/learn/v4/overview. 
 ### Goals:
-\item {12}
+    1. Building predictive deep learning models in Keras
+    2. Keras is:
+        * High level library in python used to build deep neural networks
+        * High level means it is close to our language than machine language
+        * Neural network: Assembly of artificial neurons
+        * Deep learning or neural networks have been outperforming everything in the past. (Google has dumped all their existing model into deep learning models).
+    3. We will learn the basics of artificial neurons and how to build artificial neural network.
+    4. At the end of the course you will be able to define what deep learning is, and will be able to build a simple real world deep learning model. We will skip the math for now and focus on the model building process.
+    5. Building deep learning models is not difficult, but there are lots of moving parts and a lot of new concepts.
+    6. We will use a library in Python called Keras to create a deep learning model.
+    7. We will cover a lot of new terminology that is specific to deep learning.
+
