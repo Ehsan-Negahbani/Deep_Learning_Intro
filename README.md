@@ -7,7 +7,7 @@ The notebook shows how to tune the model to improve the model accuracy.
 The Notebook is **adopted** from a Udemy course on deep learning using Keras by Mike West
 Course website: https://www.udemy.com/a-gentle-introduction-to-deep-learning-using-keras/learn/v4/overview. 
 ### Goals:
-    1. Building predictive deep learning models in Keras
+   1. Building predictive deep learning models in Keras
     2. Keras is:
         * High level library in python used to build deep neural networks
         * High level means it is close to our language than machine language
